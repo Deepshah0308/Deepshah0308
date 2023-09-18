@@ -18,8 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8PC5LC)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepshah0308&icon=0&color=0)](https://visitcount.itsvg.in)
