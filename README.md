@@ -206,7 +206,7 @@ I run a consultancy helping small and growing businesses get Azure, AI, and secu
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepshah0308&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=Deepshah0308&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
