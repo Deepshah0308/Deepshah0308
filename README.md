@@ -49,6 +49,25 @@ AI adoption only works when it's secure, governed, and tied to a real business p
 
 ---
 
+## ⭐ Open Source: Awesome Intune Tools
+
+<div align="center">
+
+[![Awesome Intune Tools](https://img.shields.io/badge/Awesome%20Intune%20Tools-Browse%20the%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://deepshah0308.github.io/awesome-intunetools/)
+[![Stars](https://img.shields.io/github/stars/Deepshah0308/awesome-intunetools?style=for-the-badge&logo=github&color=yellow)](https://github.com/Deepshah0308/awesome-intunetools/stargazers)
+[![Forks](https://img.shields.io/github/forks/Deepshah0308/awesome-intunetools?style=for-the-badge&logo=github)](https://github.com/Deepshah0308/awesome-intunetools/forks)
+[![License](https://img.shields.io/github/license/Deepshah0308/awesome-intunetools?style=for-the-badge)](https://github.com/Deepshah0308/awesome-intunetools/blob/main/LICENSE)
+
+</div>
+
+**[awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools)** is a curated, searchable directory of **122 community tools, scripts, and utilities** for Microsoft Intune administrators, covering Autopilot, device management, PowerShell automation, and more.
+
+- 🔎 **[Search the directory online](https://deepshah0308.github.io/awesome-intunetools/)**
+- ⭐ Star the repo if it saves you time
+- 🤝 Know a great tool that's missing? Contributions and suggestions are welcome via issues and pull requests
+
+---
+
 ## 🧰 Tech Stack
 
 ### ☁️ Cloud & Microsoft Infrastructure
